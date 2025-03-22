@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+        video {
+            width: 300px;
+            height: auto;
+        }
+        .video-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 20px;
+        }
+  h1 {
+            margin-top: 20px;
+        }
